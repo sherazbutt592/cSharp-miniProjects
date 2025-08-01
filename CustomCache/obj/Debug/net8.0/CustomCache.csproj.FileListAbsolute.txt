@@ -1,0 +1,15 @@
+F:\C# Practice\cSharp-miniProjects\CustomCache\bin\Debug\net8.0\CustomCache.exe
+F:\C# Practice\cSharp-miniProjects\CustomCache\bin\Debug\net8.0\CustomCache.deps.json
+F:\C# Practice\cSharp-miniProjects\CustomCache\bin\Debug\net8.0\CustomCache.runtimeconfig.json
+F:\C# Practice\cSharp-miniProjects\CustomCache\bin\Debug\net8.0\CustomCache.dll
+F:\C# Practice\cSharp-miniProjects\CustomCache\bin\Debug\net8.0\CustomCache.pdb
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\CustomCache.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\CustomCache.AssemblyInfoInputs.cache
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\CustomCache.AssemblyInfo.cs
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\CustomCache.csproj.CoreCompileInputs.cache
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\CustomCache.sourcelink.json
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\CustomCache.dll
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\refint\CustomCache.dll
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\CustomCache.pdb
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\CustomCache.genruntimeconfig.cache
+F:\C# Practice\cSharp-miniProjects\CustomCache\obj\Debug\net8.0\ref\CustomCache.dll

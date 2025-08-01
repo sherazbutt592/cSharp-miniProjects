@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Practice\\cSharp-miniProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D87AE1-DED8-4EAE-990A-8A8661982955}|CustomCache\\CustomCache.csproj|f:\\c# practice\\csharp-miniprojects\\customcache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D87AE1-DED8-4EAE-990A-8A8661982955}|CustomCache\\CustomCache.csproj|solutionrelative:customcache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CBA8FA-318D-42FE-98D9-61D47246972E}|Practice\\Practice.csproj|f:\\c# practice\\csharp-miniprojects\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CBA8FA-318D-42FE-98D9-61D47246972E}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Practice\\cSharp-miniProjects\\CustomCache\\Program.cs",
+              "RelativeDocumentMoniker": "CustomCache\\Program.cs",
+              "ToolTip": "F:\\C# Practice\\cSharp-miniProjects\\CustomCache\\Program.cs",
+              "RelativeToolTip": "CustomCache\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T21:19:26.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Practice\\cSharp-miniProjects\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "F:\\C# Practice\\cSharp-miniProjects\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:21:45.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
