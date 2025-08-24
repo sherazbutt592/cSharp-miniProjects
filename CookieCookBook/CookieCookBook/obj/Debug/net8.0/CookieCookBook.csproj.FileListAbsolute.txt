@@ -1,0 +1,14 @@
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net8.0\CookieCookBook.exe
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net8.0\CookieCookBook.deps.json
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net8.0\CookieCookBook.runtimeconfig.json
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net8.0\CookieCookBook.dll
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net8.0\CookieCookBook.pdb
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\CookieCookBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\CookieCookBook.AssemblyInfoInputs.cache
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\CookieCookBook.AssemblyInfo.cs
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\CookieCookBook.csproj.CoreCompileInputs.cache
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\CookieCookBook.dll
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\refint\CookieCookBook.dll
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\CookieCookBook.pdb
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\CookieCookBook.genruntimeconfig.cache
+C:\Users\Sheraz Butt\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net8.0\ref\CookieCookBook.dll

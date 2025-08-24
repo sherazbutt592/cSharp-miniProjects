@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheraz Butt\\source\\repos\\DiceRollGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE993EC-A535-42C2-95A5-CA5CAEE983C9}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\sheraz butt\\source\\repos\\dicerollgame\\dicerollgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE993EC-A535-42C2-95A5-CA5CAEE983C9}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE993EC-A535-42C2-95A5-CA5CAEE983C9}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\sheraz butt\\source\\repos\\dicerollgame\\dicerollgame\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE993EC-A535-42C2-95A5-CA5CAEE983C9}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleReader.cs",
+              "DocumentMoniker": "C:\\Users\\Sheraz Butt\\source\\repos\\DiceRollGame\\DiceRollGame\\ConsoleReader.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\ConsoleReader.cs",
+              "ToolTip": "C:\\Users\\Sheraz Butt\\source\\repos\\DiceRollGame\\DiceRollGame\\ConsoleReader.cs",
+              "RelativeToolTip": "DiceRollGame\\ConsoleReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T19:25:53.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheraz Butt\\source\\repos\\DiceRollGame\\DiceRollGame\\Program.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Sheraz Butt\\source\\repos\\DiceRollGame\\DiceRollGame\\Program.cs",
+              "RelativeToolTip": "DiceRollGame\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwD0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:57:29.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

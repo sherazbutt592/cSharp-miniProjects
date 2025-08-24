@@ -1,0 +1,5 @@
+﻿enum GameResult
+{
+    Win,
+    Lose
+}

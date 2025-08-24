@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|c:\\users\\sheraz butt\\source\\repos\\gamedataparser\\gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|c:\\users\\sheraz butt\\source\\repos\\gamedataparser\\gamedataparser\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|c:\\users\\sheraz butt\\source\\repos\\gamedataparser\\gamedataparser\\iuserinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\iuserinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|c:\\users\\sheraz butt\\source\\repos\\gamedataparser\\gamedataparser\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|c:\\users\\sheraz butt\\source\\repos\\gamedataparser\\gamedataparser\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7699E15A-E9FC-4A3B-A679-11BC13F74FEB}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\Logger.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Logger.cs",
+              "ToolTip": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\Logger.cs",
+              "RelativeToolTip": "GameDataParser\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T11:16:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\GameData.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\GameData.cs",
+              "ToolTip": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\GameData.cs",
+              "RelativeToolTip": "GameDataParser\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T10:42:00.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserInteractions.cs",
+              "DocumentMoniker": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\IUserInteractions.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\IUserInteractions.cs",
+              "ToolTip": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\IUserInteractions.cs",
+              "RelativeToolTip": "GameDataParser\\IUserInteractions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T10:26:46.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\IRepository.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\IRepository.cs",
+              "RelativeToolTip": "GameDataParser\\IRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T10:24:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\Program.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Program.cs",
+              "ToolTip": "C:\\Users\\Sheraz Butt\\source\\repos\\GameDataParser\\GameDataParser\\Program.cs",
+              "RelativeToolTip": "GameDataParser\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:17:34.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
